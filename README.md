@@ -1,5 +1,5 @@
 # kharchang
-This Shiny app visualize the sound with kandinsky like pictures.
+This Shiny app visualizes a wave file with kandinsky like pictures.
 
 you may have to convert yourmusic.mp3 to test.wav with ffmpeg command:
 
